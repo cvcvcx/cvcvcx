@@ -6,7 +6,7 @@
 ### Spring JPA와 React, SpringSecurity가 적용된 게시판 사이트
 
 <a href="https://cvcvcx9.duckdns.org"><p>https://cvcvcx9.duckdns.org</p></a> 
-<a href=""><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/cvcvcx/boardReactJPASecurity"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ![스크린샷 2023-04-21 오후 7 19 38](https://user-images.githubusercontent.com/69139476/233612475-aade69dc-bcba-4819-a160-517abf4f5f8c.png)
 
