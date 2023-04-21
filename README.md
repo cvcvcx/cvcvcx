@@ -15,7 +15,7 @@
 ## SNS
 <a href="https://cvcvcx9.tistory.com"><img src="https://img.shields.io/badge/티스토리-E34F26?style=for-the-badge&logo=tistory&logoColor=white"> </a>
 
-<center>
+<div align="center">
 
 ✨ 주로 쓰는 Skills ✨
 <br/>
@@ -57,7 +57,7 @@
 <br/>
   <img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white">
-</center>
+</div>
 
 
 ## 자기소개
