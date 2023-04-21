@@ -1,4 +1,5 @@
-
+<div align="center">
+ 
 ![header](https://capsule-render.vercel.app/api?type=rect&text=LONG-MAN&color=82FBF7&fontColor=0B2B4C&height=200)
 <br/><br/><br/>
 ## 가장 최근에 구현한 프로젝트 
@@ -8,14 +9,12 @@
 <a href=""><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <br/>
-<br/>
-<br/>
 <hr/>
 
 ## SNS
 <a href="https://cvcvcx9.tistory.com"><img src="https://img.shields.io/badge/티스토리-E34F26?style=for-the-badge&logo=tistory&logoColor=white"> </a>
 
-<div align="center">
+
 
 ✨ 주로 쓰는 Skills ✨
 <br/>
