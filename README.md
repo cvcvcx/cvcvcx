@@ -3,6 +3,11 @@
  ![조창훈favicon-512x512](https://user-images.githubusercontent.com/69139476/233616155-2b8be334-5b61-4bf5-8ba7-c68c4c73d994.png)
  <br/>
  조창훈의 github
+ 
+ ☕️ SNS ☕️
+<a href="https://cvcvcx9.tistory.com"><img src="https://img.shields.io/badge/티스토리-E34F26?style=for-the-badge&logo=tistory&logoColor=white"> </a>
+
+
 <br/><br/><br/>
 ## 가장 최근에 구현한 프로젝트 
 ### Spring JPA와 React, SpringSecurity가 적용된 게시판 사이트
@@ -15,9 +20,6 @@
 
 <br/>
 <hr/>
-
-## SNS
-<a href="https://cvcvcx9.tistory.com"><img src="https://img.shields.io/badge/티스토리-E34F26?style=for-the-badge&logo=tistory&logoColor=white"> </a>
 
 
 
