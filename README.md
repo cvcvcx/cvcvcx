@@ -1,6 +1,6 @@
 <center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=LONG-MAN&color=82FBF7&fontColor=0B2B4C&height=200)
+![header](https://capsule-render.vercel.app/api?type=rect&text=LONG-MAN&color=82FBF7&fontColor=0B2B4C&height=200)
 <br/><br/><br/>
 ## 가장 최근에 구현한 프로젝트 
 ### Spring JPA와 React, SpringSecurity가 적용된 게시판 사이트
