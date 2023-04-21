@@ -2,10 +2,12 @@
  
  ![조창훈favicon-512x512](https://user-images.githubusercontent.com/69139476/233616155-2b8be334-5b61-4bf5-8ba7-c68c4c73d994.png)
  <br/>
- 조창훈의 github
+## 조창훈의 github
  
- ☕️ SNS ☕️
-<a href="https://cvcvcx9.tistory.com"><img src="https://img.shields.io/badge/티스토리-E34F26?style=for-the-badge&logo=tistory&logoColor=white"> </a>
+### ☕️ SNS ☕️
+  <br/>
+<a href="https://cvcvcx9.tistory.com"><img src="https://img.shields.io/badge/tistory-E34F26?style=for-the-badge&logo=tistory&logoColor=white"> </a>
+<a href="https://cvcvcx9.tistory.com"><img src="https://img.shields.io/badge/notion-E34F26?style=for-the-badge&logo=notion&logoColor=white"> </a>
 
 
 <br/><br/><br/>
