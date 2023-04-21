@@ -7,7 +7,7 @@
 ### ☕️ SNS ☕️
   <br/>
 <a href="https://cvcvcx9.tistory.com"><img src="https://img.shields.io/badge/tistory-E34F26?style=for-the-badge&logo=tistory&logoColor=white"> </a>
-<a href="https://cvcvcx9.tistory.com"><img src="https://img.shields.io/badge/notion-E34F26?style=for-the-badge&logo=notion&logoColor=white"> </a>
+<a href="https://www.notion.so/cvcvcx9/CHO-Changhun-f0211ba12e2247c68a5c329092f31ebc"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
 
 
 <br/><br/><br/>
